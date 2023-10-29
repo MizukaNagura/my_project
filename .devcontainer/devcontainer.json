@@ -1,0 +1,7 @@
+{
+    "name": "FastAPI Dev Container",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "web",
+    "workspaceFolder": "/app",
+    "extensions": ["ms-python.python"]
+}
